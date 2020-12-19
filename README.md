@@ -14,6 +14,6 @@ Video of the agent playing the game can be found [here](./banana2.mov)
 
 I have implemented Pixel based DQN. The implentation is in Navigation_Pixels.ipynb
 
-A model spesic to the pixel based navigation is implemented in model_pix.py.
+A model spesific to the pixel based navigation is implemented in model_pix.py.
 
 The report of the project is available in [here](./report.pdf) 
