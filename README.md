@@ -7,11 +7,8 @@ Implemented DQN based action using the code provided in the lessons. Only intera
 
 ![scores](./BananaScore.png)
 
-Following is the screen capture of the training agent
+Video of the agent playing the game can be found [here](./banana2.mov)
 
-<video width="320" height="240" controls>
-  <source src="./banana2.mov" type="video/mp4">
-</video>
 
 # Learning from Pixels
 
@@ -19,4 +16,4 @@ I have implemented Pixel based DQN. The implentation is in Navigation_Pixels.ipy
 
 A model spesic to the pixel based navigation is implemented in model_pix.py.
 
-The report of the project is available in report.pdfs 
+The report of the project is available in [here](./report.pdf) 
