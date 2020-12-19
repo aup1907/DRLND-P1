@@ -9,7 +9,7 @@ Implemented DQN based action using the code provided in the lessons. Only intera
 
 Following is the screen capture of the training agent
 
-![](banana2s.mov)
+![](banana2.mov)
 
 # Learning from Pixels
 
